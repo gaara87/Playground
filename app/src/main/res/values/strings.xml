@@ -1,5 +1,22 @@
 <resources>
     <string name="app_name">Playground</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="titles">
+        <item>Dragon Ball</item>
+        <item>One Piece</item>
+        <item>Naruto</item>
+        <item>Detective Conan</item>
+        <item>Attack on Titan</item>
+        <item>Fullmetal Alchemist</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Here’s some advice: At a job interview, tell them you’re willing to give 110 percent. Unless the job is a statistician.</item>
+        <item>Instead of the mahi mahi, may I just get the one mahi because I’m not that hungry?</item>
+        <item>There is one word that describes people that don’t like me: Irrelevant.</item>
+        <item>The worst part of online shopping is having to get up and get your credit card from your purse.</item>
+        <item>My therapist says I’m afraid of success. I guess I could understand that, because after all, fulfilling my potential would really cut into my sitting-around time.</item>
+        <item>Outside of a dog, a book is man’s best friend. Inside of a dog, it’s too dark to read.</item>
+    </string-array>
+
+    <dimen name="title_padding">36dp</dimen>
+    <item name="shared_guide_percent" format="float" type="dimen">0.6</item>
 </resources>
