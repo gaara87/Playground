@@ -1,5 +1,22 @@
 <resources>
     <string name="app_name">Playground</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="titles">
+        <item>Meet Your Everyday Money App</item>
+        <item>Your Daily Money Needs</item>
+        <item>75,000+ Free ATMs</item>
+        <item>Earn 0.30% APY</item>
+        <item>No Hidden Fees</item>
+        <item>Protected &amp; FDIC-Insured</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>Spend, get your paycheck, pay bills, invest, earn interest, and more—no catch, no commitment. Learn More</item>
+        <item>Get your paycheck, pay rent, buy groceries,  jump on potential market opportunities, and more—all in one easy-to-use app. Learn More</item>
+        <item>Use the Robinhood debit card nearly anywhere Mastercard® is accepted and at more ATMs than the top three banks combined. Learn More </item>
+        <item>Earn interest on your cash while  having full access to it. Banks in our program pay the interest—we pass it on to you. Learn More</item>
+        <item>There are no overdrafts, account minimums, transfer fees, foreign transaction fees, etc. See our fee schedule to learn more. Learn More</item>
+        <item>You’re covered with Mastercard Zero Liability Protection and up to $1.25 million of FDIC insurance from the program banks. Learn More</item>
+    </string-array>
+
+    <dimen name="title_padding">36dp</dimen>
+    <item name="shared_guide_percent" format="float" type="dimen">0.6</item>
 </resources>
